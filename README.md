@@ -6,7 +6,6 @@ Welcome to my page.
   
 ## `📫 How to reach me:`
 > Linkedin: https://www.linkedin.com/in/mehmetfatihunal/ <br/>
-> Discord: wolfeinstein#7660
 
 ## ` 🛠️ Language and Tools` 
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
